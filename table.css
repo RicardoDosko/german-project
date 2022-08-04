@@ -1,0 +1,36 @@
+table {
+    display:block;
+    width: 100%;
+    border: 3px solid rgb(255, 255, 255);
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+}
+ table {
+    padding: 0.2em;
+    color: rgb(0, 0, 0);
+}
+ th {
+    background: #eee;
+}
+.button-table{
+  background-color: white;
+  border: none;
+}
+
+.table-header{
+    font-size: 12px;
+    font-family: "Nunito Sans";
+    font-weight: 200;
+    border-bottom: 2px solid rgb(194, 194, 194);
+}
+.employee-data{
+    font-size: 14px;
+    font-family: "Nunito Sans";
+    font-weight: bold;
+}
